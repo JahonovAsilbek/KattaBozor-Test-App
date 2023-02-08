@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KattaBozor</string>
+    <string name="product_name">Name: %1$s</string>
+    <string name="product_brand">Brand: %1$s</string>
+    <string name="product_category">Category: %1$s</string>
+    <string name="product_merchant">Merchant: %1$s</string>
+    <string name="internet_error">No internet connection</string>
+</resources>
